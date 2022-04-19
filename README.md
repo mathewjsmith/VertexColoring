@@ -1,5 +1,5 @@
 ## Instructions to install and run tests
-Download and install Julia **v1.5** from https://julialang.org/downloads/
+Download and install Julia **v1.5** or higher from https://julialang.org/downloads/
 
 Starting in the `Exam` folder:
 ```bash
